@@ -2,7 +2,9 @@
 - cd backend
 - npm install
 - npm run dev
-
+  ## create .env in root folder
+  - PORT
+  - MONGO_URL
 ## start frontend
 - cd employee-management
 - npm install
